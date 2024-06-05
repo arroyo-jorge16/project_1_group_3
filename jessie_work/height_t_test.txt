@@ -1,0 +1,15 @@
+
+T-Test Results for Summer/Winter Height:
+---------------------------------
+T-Statistic: 14.655164939136906
+P-Value: 1.3248279871475216e-48
+---------------------------------
+Summer Median Height: 175.0
+Summer Mean Height: 175.55377382465056
+Summer Max Height: 226.0
+Summer Min Height: 127.0
+---------------------------------
+Winter Median Height: 175.0
+Winter Mean Height: 174.67063902388585
+Winter Max Height: 206.0
+Winter Min Height: 137.0
