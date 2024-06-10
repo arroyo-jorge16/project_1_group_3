@@ -1,0 +1,18 @@
+
+T-Test Results for Summer/Winter Weight:
+---------------------------------
+T-Statistic: -1.7235299044115997
+P-Value: 0.08479431852185805
+---------------------------------
+Summer Median Weight: 70.0
+Summer Mean Weight: 70.64032401524777
+Summer Max Weight: 214.0
+Summer Min Weight: 25.0
+---------------------------------
+Winter Median Weight: 70.0
+Winter Mean Weight: 70.78158928756075
+Winter Max Weight: 127.0
+Winter Min Weight: 32.0
+
+
+
