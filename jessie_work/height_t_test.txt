@@ -13,3 +13,9 @@ Winter Median Height: 175.0
 Winter Mean Height: 174.67063902388585
 Winter Max Height: 206.0
 Winter Min Height: 137.0
+
+
+
+
+
+

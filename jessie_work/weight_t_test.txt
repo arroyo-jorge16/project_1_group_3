@@ -13,3 +13,6 @@ Winter Median Weight: 70.0
 Winter Mean Weight: 70.78158928756075
 Winter Max Weight: 127.0
 Winter Min Weight: 32.0
+
+
+
